@@ -10,25 +10,24 @@ const Showcase = () => {
       animate={{ opacity: 1 }}
     >
       <main className="showcase">
-        <h1 className="showcase-header h-color">BOT</h1>
+        <h1 className="showcase-header h-color">NOISEBOT</h1>
         <h2 className="showcase-header-text h-color">
-          The only discord bot you need!
+          The Solution to your AI needs
         </h2>
         <p className="showcase-para p-color">
-          One of the awesome discord bot with tons of commands that will fill
-          your needs in your discord server.
+          Noisebot is an amazing AI bot that can simulate almost any character / tone.
         </p>
 
         <span className="p-color">Bot is online!</span>
         <div className="showcase-btn">
           <button className="btn">
-            <Link className="h-color no-decoration" href="#">
+            <Link className="h-color no-decoration" href="https://discord.com/api/oauth2/authorize?client_id=1198131586080706672&permissions=8&scope=bot">
               Invite now!
             </Link>
           </button>
 
           <button className="btn">
-            <Link className="h-color no-decoration" href="#">
+            <Link className="h-color no-decoration" href="https://discord.gg/HuFHCvMMWC">
               Join server!
             </Link>
           </button>
