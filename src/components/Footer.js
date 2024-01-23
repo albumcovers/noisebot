@@ -59,17 +59,10 @@ const Footer = () => {
             <p className="p-color">{year} &copy; All rights reserved!</p>
           </div>
           <div className="footer-sec2-link">
-            <Link className="p-color no-decoration" href="#">
+            <Link className="p-color no-decoration" href="https://discord.gg/HuFHCvMMWC">
               /support
             </Link>
-            <Link
-              target="_blank"
-              className="p-color no-decoration"
-              href="https://github.com/preetsuthar17/discord-bot-website-template"
-            >
-              /source-code
-            </Link>
-            <Link className="p-color no-decoration" href="#">
+            <Link className="p-color no-decoration" href="https://pastebin.com/RraVTE0T">
               /privacy
             </Link>
           </div>
