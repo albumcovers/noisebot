@@ -12,7 +12,7 @@ const Footer = () => {
             <ul>
               <li>
                 <Link className="h-color" href="/">
-                  bot.gg
+                  noisebot.link
                 </Link>
                 <span
                   style={{
@@ -38,17 +38,12 @@ const Footer = () => {
           <div className="footer-items">
             <ul>
               <li>
-                <Link className="p-color" href="/commands">
-                  /commands
-                </Link>
-              </li>
-              <li>
-                <Link className="p-color" href="#">
+                <Link className="p-color" href="https://discord.gg/HuFHCvMMWC">
                   /support
                 </Link>
               </li>
               <li>
-                <Link className="p-color" href="#">
+                <Link className="p-color" href="https://discord.gg/HuFHCvMMWC">
                   /discord-server
                 </Link>
               </li>
@@ -59,13 +54,7 @@ const Footer = () => {
           <hr />
           <div>
             <p className="p-color">
-              Created with ❤️ by{" "}
-              <Link
-                href="https://github.com/preetsuthar17"
-                className="h-color no-decoration"
-              >
-                Preet Suthar
-              </Link>
+              Created with ❤️ by Exposure
             </p>
             <p className="p-color">{year} &copy; All rights reserved!</p>
           </div>
