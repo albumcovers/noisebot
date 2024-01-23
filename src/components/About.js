@@ -38,6 +38,7 @@ const About = () => {
             Check out Commands &rarr;
           </Link>
         </p>
+      </section>
     </>
   );
 };
